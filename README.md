@@ -14,4 +14,4 @@ git clone https://github.com/TxJson/Destination [Location]
 ```
 
 ## Licensing
-[Apache License 2.0](https://github.com/TxJson/BirdNet/blob/master/LICENSE)
+[Apache License 2.0](https://github.com/TxJson/Destination/blob/master/LICENSE)
